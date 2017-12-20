@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"path_"
+			],
+			[
+				"actvi",
+				"activation_key"
+			],
+			[
+				"ac",
+				"activation_key"
+			],
+			[
+				"Re",
+				"RegiserForm"
+			],
+			[
+				"is",
+				"is_following_user_ids"
+			],
+			[
+				"is_fowl",
+				"is_following_user_ids"
+			],
+			[
+				"username_",
+				"username_to_toggle"
+			],
+			[
+				"Pro",
+				"ProfileManager"
+			],
+			[
+				"user",
+				"user_to_toggle"
+			],
+			[
+				"def",
+				"default_user_profile"
+			],
+			[
+				"User",
+				"User"
+			],
+			[
+				"Res",
+				"RestaurantLocationManager"
+			],
+			[
+				"get_",
+				"get_object"
+			],
+			[
+				"get_o",
+				"get_object"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"userna",
+				"username__iexact"
+			],
+			[
+				"Item",
+				"ItemForm"
+			],
+			[
+				"get",
+				"get_form_kwargs"
+			],
+			[
+				"I",
+				"ItemCreateView"
+			],
+			[
+				"Restaurat",
+				"RestaurantCreateView"
+			],
+			[
+				"oj",
+				"object_list"
+			],
+			[
+				"res",
+				"restaurants"
+			],
+			[
+				"form",
+				"formv_valid"
+			],
+			[
+				"vali",
+				"validate_category"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"random",
+				"random_string_generator"
+			],
+			[
+				"category",
+				"category__iexact"
+			],
+			[
+				"r",
+				"rl_post_save_receiver"
+			],
+			[
+				"rest",
+				"rest_id"
+			],
+			[
+				"get_object",
+				"get_object_or_404"
+			],
+			[
+				"Rest",
+				"RestaurantDetailView"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"Conta",
+				"ContactTemplateView"
+			],
+			[
+				"home",
+				"home3"
+			],
+			[
+				"html",
+				"html_var"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/citsys"
+	],
+	"file_history":
+	[
+		"/D/Projects/Dev/trydjango111/src/restaurants/utils.py",
+		"/D/Projects/Dev/trydjango111/src/restaurants/urls.py",
+		"/D/Projects/Dev/trydjango111/src/profiles/models.py",
+		"/D/Projects/Dev/trydjango111/src/restaurants/models.py",
+		"/D/Projects/Dev/trydjango111/src/profiles/views.py",
+		"/D/Projects/Dev/trydjango111/src/muypicky/urls.py",
+		"/D/Projects/Dev/trydjango111/src/muypicky/settings/base.py",
+		"/D/Projects/Dev/trydjango111/src/profiles/utils.py",
+		"/D/Projects/Dev/trydjango111/src/profiles/forms.py",
+		"/D/Projects/Dev/trydjango111/src/menus/templates/menus/home-feed.html",
+		"/D/Projects/Dev/trydjango111/src/profiles/templates/profiles/user.html",
+		"/D/Projects/Dev/trydjango111/src/templates/registration/login.html",
+		"/D/Projects/Dev/trydjango111/src/templates/registration/register.html",
+		"/D/Projects/Dev/trydjango111/src/profiles/templates/profiles/register.html",
+		"/D/Projects/Dev/trydjango111/src/menus/views.py",
+		"/D/Projects/Dev/trydjango111/src/menus/templates/menus/item_list.html",
+		"/D/Projects/Dev/trydjango111/src/profiles/templates/profiles/snippet/follow_form.html",
+		"/D/Projects/Dev/trydjango111/src/profiles/urls.py",
+		"/D/Projects/Dev/trydjango111/src/menus/models.py",
+		"/D/Projects/Dev/trydjango111/src/profiles/admin.py",
+		"/D/Projects/Dev/trydjango111/src/profiles/shell_commands.py",
+		"/D/Projects/Dev/trydjango111/src/restaurants/validators.py",
+		"/D/Projects/Dev/trydjango111/src/templates/snippets/form-snippet.html",
+		"/D/Projects/Dev/trydjango111/src/menus/templates/menus/detail-update.html",
+		"/D/Projects/Dev/trydjango111/src/menus/urls.py",
+		"/D/Projects/Dev/trydjango111/src/templates/form.html",
+		"/D/Projects/Dev/trydjango111/src/restaurants/forms.py",
+		"/D/Projects/Dev/trydjango111/src/restaurants/templates/restaurants/detail-update.html",
+		"/D/Projects/Dev/trydjango111/src/restaurants/views.py",
+		"/D/Projects/Dev/trydjango111/src/menus/forms.py",
+		"/D/Projects/Dev/trydjango111/src/templates/snippets/form_snippet.html",
+		"/D/Projects/Dev/trydjango111/src/restaurants/templates/restaurants/restaurantlocation_list.html",
+		"/D/Projects/Dev/trydjango111/src/templates/snippets/nav.html",
+		"/D/Projects/Dev/trydjango111/src/restaurants/templates/restaurants/form.html",
+		"/D/Projects/Dev/trydjango111/src/menus/templates/menus/item_detail.html",
+		"/D/Projects/Dev/trydjango111/src/templates/snippets/form.html",
+		"/D/Projects/Dev/trydjango111/src/restaurants/tests.py",
+		"/D/Projects/Dev/trydjango111/src/menus/admin.py",
+		"/D/Projects/Dev/trydjango111/src/muypicky/settings/local.py",
+		"/D/Projects/Dev/trydjango111/src/muypicky/settings/__init__.py",
+		"/D/Projects/Dev/trydjango111/src/restaurants/templates/urls.py",
+		"/D/Projects/Dev/trydjango111/src/templates/home.html",
+		"/D/Projects/Dev/trydjango111/src/templates/contact.html",
+		"/D/Projects/Dev/trydjango111/src/templates/about.html",
+		"/D/Projects/Dev/trydjango111/src/templates/snippets/sidebar.html",
+		"/D/Projects/Dev/trydjango111/src/templates/snippets/js.html",
+		"/D/Projects/Dev/trydjango111/src/templates/snippets/css.html",
+		"/D/Projects/Dev/trydjango111/src/templates/base.html",
+		"/D/Projects/Dev/trydjango111/src/restaurants/admin.py",
+		"/D/Projects/Dev/trydjango111/src/restaurants/templates/restaurants/restaurantlocation_detail.html",
+		"/D/Projects/Dev/trydjango111/src/restaurants/templates/forms.py",
+		"/D/Projects/Dev/trydjango111/Lib/site-packages/django/template/context_processors.py",
+		"/D/Projects/Dev/trydjango111/src/muypicky/settings/production.py",
+		"/D/Projects/Dev/trydjango111/src/requirements.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "citsys.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
